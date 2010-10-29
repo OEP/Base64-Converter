@@ -1,0 +1,6 @@
+Base64 converter and PNG reader.
+
+Takes a selection of text and prints the Base64 cipher of it.
+
+Can also read Base64-encoded PNG's from QR Codes and display
+the decoded image.
